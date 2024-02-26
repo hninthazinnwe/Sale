@@ -1,0 +1,30 @@
+/* body {
+    height: 1000px !important;
+} */
+.container {
+    height: 750px;
+    font-size: 1.5em !important;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+.form-control  {
+    font-size: 1em !important;
+}
+.btn {
+    font-size: 1em !important;
+}
+.paginate_button {
+     /* display:flex; */
+     font-size: 0.8em;
+     background-color: lightgray;
+     padding: 1px 4px;
+     margin: 0 4px;
+     border-radius: 4px;
+}
+.card {
+    border: rgb(255 255 255 / 0%) !important;
+}
+.notification {
+    display: block;
+    top: 30 !important;
+    right: 300 !important;
+}
